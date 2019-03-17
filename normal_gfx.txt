@@ -1,0 +1,1041 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_goal_NEW_generic_reno"
+		texturefile = "gfx/interface/goals/new_generic_reno.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NEW_White_Pawn_to_E4"
+		texturefile = "gfx/interface/goals/new_White_Pawn_to_e4.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NEW_Salvatore_Reborn"
+		texturefile = "gfx/interface/goals/new_Salvadore_Reborn.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NEW_Mordinos_Tributaries"
+		texturefile = "gfx/interface/goals/new_Mordinos_Tributaries.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NEW_Calling_in_the_Family"
+		texturefile = "gfx/interface/goals/new_Calling_in_the_Family.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Generic"
+		texturefile = "gfx/interface/goals/NCN_Generic.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Prodigal_Son_Returns"
+		texturefile = "gfx/interface/goals/NCN_The_Prodigal_Son_Returns.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Burned_Man"
+		texturefile = "gfx/interface/goals/NCN_The_Burned_Man.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Mormon_Book"
+		texturefile = "gfx/interface/goals/NCN_Mormon_Book.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Hands_Of_God"
+		texturefile = "gfx/interface/goals/NCN_Hands_Of_God.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Blessed_Are_The_Merciful"
+		texturefile = "gfx/interface/goals/NCN_Blessed_Are_The_Merciful.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_.45_Auto_Pistol"
+		texturefile = "gfx/interface/goals/NCN_.45_Auto_pistol.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_generic_SLC_Temple"
+		texturefile = "gfx/interface/goals/NCN_generic_SLC_Temple.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Zealous_Fervour"
+		texturefile = "gfx/interface/goals/NCN_Zealous_Fervour.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Their_Father_Is_Dead"
+		texturefile = "gfx/interface/goals/NCN_Their_Father_Is_Dead.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Sorrows"
+		texturefile = "gfx/interface/goals/NCN_The_Sorrows.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Promise_of_Paradise_Eternal"
+		texturefile = "gfx/interface/goals/NCN_The_Promise_of_Paradise_Eternal.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Kingdom_of_God"
+		texturefile = "gfx/interface/goals/NCN_Kingdom_of_God.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_God_Is_The_Father"
+		texturefile = "gfx/interface/goals/NCN_God_Is_The_Father.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Warrior_Cult"
+		texturefile = "gfx/interface/goals/NCN_Warrior_Cult.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Tribe_Of_Dead_Horse_Point"
+		texturefile = "gfx/interface/goals/NCN_The_Tribe_Of_Dead_Horse_Point.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Tar_Walkers"
+		texturefile = "gfx/interface/goals/NCN_The_Tar_Walkers.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_The_Crazy_Horns"
+		texturefile = "gfx/interface/goals/NCN_The_Crazy_Horns.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_Northern_Missionaries"
+		texturefile = "gfx/interface/goals/NCN_Northern_Missionaries.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCN_By_The_Sword_And_The_Cross"
+		texturefile = "gfx/interface/goals/NCN_By_The_Sword_And_The_Cross.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_common_ground_with_savages"
+		texturefile = "gfx/interface/goals/bos_common_ground_with_savages.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_elder_recalled"
+		texturefile = "gfx/interface/goals/bos_elder_recalled.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_elijah's_genius"
+		texturefile = "gfx/interface/goals/bos_elijah's_genius.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_forbidden_secrets"
+		texturefile = "gfx/interface/goals/bos_forbidden_secrets.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_forbidden_weapons"
+		texturefile = "gfx/interface/goals/bos_forbidden_weapons.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_generic"
+		texturefile = "gfx/interface/goals/bos_generic.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_generic_industrial"
+		texturefile = "gfx/interface/goals/bos_generic_industrial.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_generic_infantry"
+		texturefile = "gfx/interface/goals/bos_generic_infantry.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_generic_research"
+		texturefile = "gfx/interface/goals/bos_generic_research.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_hardin's_tactics"
+		texturefile = "gfx/interface/goals/bos_hardin's_tactics.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_ncr_diplomacy"
+		texturefile = "gfx/interface/goals/bos_ncr_diplomacy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_outsider_recruitment"
+		texturefile = "gfx/interface/goals/bos_outsider_recruitment.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_repconn_hq"
+		texturefile = "gfx/interface/goals/bos_repconn_hq.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_scourge_focus"
+		texturefile = "gfx/interface/goals/bos_scourge_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_seize_arroyo"
+		texturefile = "gfx/interface/goals/bos_sieze_arroyo.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_steel_cage"
+		texturefile = "gfx/interface/goals/bos_steel_cage.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_steel_crusade"
+		texturefile = "gfx/interface/goals/bos_steel_crusade.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_steel_giants"
+		texturefile = "gfx/interface/goals/bos_steel_giants.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_study_securitron_software"
+		texturefile = "gfx/interface/goals/bos_study_securitron_software.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_steel_rain"
+		texturefile = "gfx/interface/goals/bos_steel_rain.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_the_mojave_signal"
+		texturefile = "gfx/interface/goals/bos_the_mojave_signal.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_tohono_pact"
+		texturefile = "gfx/interface/goals/bos_tohono_pact.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_trouble_on_the_homefront"
+		texturefile = "gfx/interface/goals/bos_trouble_on_the_homefront.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_vertibird_schematics"
+		texturefile = "gfx/interface/goals/bos_vertibird_schematics.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_victory_or_death"
+		texturefile = "gfx/interface/goals/bos_victory_or_death.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_wasteland_conscription"
+		texturefile = "gfx/interface/goals/bos_wasteland_conscription.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_bos_welcoming_committee"
+		texturefile = "gfx/interface/goals/bos_welcoming_committee.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_establish_the_shi_chapter"
+		texturefile = "gfx/interface/goals/establish_the_shi_chapter.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_blacksmith"
+		texturefile = "gfx/interface/goals/legion_blacksmith.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_bos_war"
+		texturefile = "gfx/interface/goals/legion_bos_war.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_brotherhood"
+		texturefile = "gfx/interface/goals/legion_brotherhood.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_centurion"
+		texturefile = "gfx/interface/goals/legion_centurion.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_crucifixion"
+		texturefile = "gfx/interface/goals/legion_crucifixion.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_denarius"
+		texturefile = "gfx/interface/goals/legion_denarius.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_diplomatic"
+		texturefile = "gfx/interface/goals/legion_diplomatic.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_generic_focus"
+		texturefile = "gfx/interface/goals/legion_generic_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_generic_infantry"
+		texturefile = "gfx/interface/goals/legion_generic_infantry.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_hammer_of_mars"
+		texturefile = "gfx/interface/goals/legion_hammer_of_mars.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_immortal_empire"
+		texturefile = "gfx/interface/goals/legion_immortal_empire.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_ncr_war"
+		texturefile = "gfx/interface/goals/legion_ncr_war.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_new_thesis"
+		texturefile = "gfx/interface/goals/legion_new_thesis.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_numeri"
+		texturefile = "gfx/interface/goals/legion_numeri.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_praetorian_guard"
+		texturefile = "gfx/interface/goals/legion_praetorian_guard.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_segmentata"
+		texturefile = "gfx/interface/goals/legion_segmentata.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_servus_publicus"
+		texturefile = "gfx/interface/goals/legion_servus_publicus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_slaves"
+		texturefile = "gfx/interface/goals/legion_slaves.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_spqr"
+		texturefile = "gfx/interface/goals/legion_spqr.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_via_militaris"
+		texturefile = "gfx/interface/goals/legion_via_militaris.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_legion_workshop"
+		texturefile = "gfx/interface/goals/legion_workshop.dds"
+	}
+	
+	###################
+	# VEGAS FOCUSES     #
+	###################
+	spriteType = {
+		name = "GFX_goal_VEG_Abandon_Cannibalism"
+		texturefile = "gfx/interface/goals/VEG_Abandon_Cannibalism.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Addiction_For_Sale"
+		texturefile = "gfx/interface/goals/VEG_Addiction_for_Sale.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Aligning_the_Families"
+		texturefile = "gfx/interface/goals/VEG_Addiction_for_Sale.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_All-In"
+		texturefile = "gfx/interface/goals/VEG_All-In.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Architect_of_Destiny"
+		texturefile = "gfx/interface/goals/VEG_Architect_of_Destiny.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Assassinate_House"
+		texturefile = "gfx/interface/goals/VEG_Assassinate_House.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Broken_Steel"
+		texturefile = "gfx/interface/goals/VEG_Broken_Steel.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Burying_the_Hatchet"
+		texturefile = "gfx/interface/goals/VEG_Burying_the_Hatchet.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Checkered_Devil"
+		texturefile = "gfx/interface/goals/VEG_Checkered_Devil.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Economic_Miracle"
+		texturefile = "gfx/interface/goals/VEG_Economic_Miracle.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Enlist_the_Muggers"
+		texturefile = "gfx/interface/goals/VEG_Enlist_the_Muggers.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Every_Man_a_King"
+		texturefile = "gfx/interface/goals/VEG_Every_Man_a_King.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Family_Compensation"
+		texturefile = "gfx/interface/goals/VEG_Family_Compensation.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Family_Man"
+		texturefile = "gfx/interface/goals/VEG_Family_Man.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Family_Supremacy"
+		texturefile = "gfx/interface/goals/VEG_Family_Supremacy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Fancy_Pickelhaubes"
+		texturefile = "gfx/interface/goals/VEG_Fancy_Pickelhaubes.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Follower_Support"
+		texturefile = "gfx/interface/goals/VEG_Follower_Support.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_General_Victor"
+		texturefile = "gfx/interface/goals/VEG_General_Victor.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Gomorrah"
+		texturefile = "gfx/interface/goals/VEG_Gomorrah.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Hidden_Valley_Reborn"
+		texturefile = "gfx/interface/goals/VEG_Hidden_Valley_Reborn.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Hired_Help"
+		texturefile = "gfx/interface/goals/VEG_Hired_Help.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Killer_Cologne"
+		texturefile = "gfx/interface/goals/VEG_Killer_Cologne.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Mojave_Alliance"
+		texturefile = "gfx/interface/goals/VEG_Mojave_Alliance.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_New_Management"
+		texturefile = "gfx/interface/goals/VEG_New_Management.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_New_World_Order"
+		texturefile = "gfx/interface/goals/VEG_New_World_Order.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Old_Authority"
+		texturefile = "gfx/interface/goals/VEG_Old_Authority.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Private_Armies"
+		texturefile = "gfx/interface/goals/VEG_Private_Armies.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Ring-a-Ding-Ding"
+		texturefile = "gfx/interface/goals/VEG_Ring-a-Ding-Ding.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Skulls_and_Suits"
+		texturefile = "gfx/interface/goals/VEG_Skulls_and_Suits.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Chairmen"
+		texturefile = "gfx/interface/goals/VEG_The_Chairmen.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Consiglieres"
+		texturefile = "gfx/interface/goals/VEG_The_Consiglieres.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_House"
+		texturefile = "gfx/interface/goals/VEG_The_House.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Human_Banquet"
+		texturefile = "gfx/interface/goals/VEG_The_Human_Banquet.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Joker"
+		texturefile = "gfx/interface/goals/VEG_The_Joker.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Khaganate"
+		texturefile = "gfx/interface/goals/VEG_The_Khaganate.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Joker"
+		texturefile = "gfx/interface/goals/VEG_The_Joker.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_King"
+		texturefile = "gfx/interface/goals/VEG_The_King.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Kings"
+		texturefile = "gfx/interface/goals/VEG_The_Kings.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Lucky_38"
+		texturefile = "gfx/interface/goals/VEG_The_Lucky_38.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Omertas"
+		texturefile = "gfx/interface/goals/VEG_The_Omertas.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Platinum_Chip"
+		texturefile = "gfx/interface/goals/VEG_The_Platinum_Chip.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Tops"
+		texturefile = "gfx/interface/goals/VEG_The_Tops.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Ultra-Luxe"
+		texturefile = "gfx/interface/goals/VEG_The_Ultra-Luxe.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_Vault"
+		texturefile = "gfx/interface/goals/VEG_The_Vault.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_The_White_Glove_Society"
+		texturefile = "gfx/interface/goals/VEG_The_White_Glove_Society.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Vault_21"
+		texturefile = "gfx/interface/goals/VEG_Vault_21.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Vegas_First"
+		texturefile = "gfx/interface/goals/VEG_Vegas_First.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Vegas_for_the_People"
+		texturefile = "gfx/interface/goals/VEG_Vegas_for_the_People.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Vegas_Prime"
+		texturefile = "gfx/interface/goals/VEG_Vegas_Prime.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_War_for_Vegas"
+		texturefile = "gfx/interface/goals/VEG_War_for_Vegas.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Wrong_Package"
+		texturefile = "gfx/interface/goals/VEG_Wrong_Package.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_VEG_Yes_Man"
+		texturefile = "gfx/interface/goals/VEG_Yes_Man.dds"
+	}
+	
+	###################
+	# NCR FOCUSES     #
+	###################
+	
+	spriteType = {
+		name = "GFX_goal_NCR_Army_of_Mobility"
+		texturefile = "gfx/interface/goals/NCR_Army_of_Mobility.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Bears_Roar"
+		texturefile = "gfx/interface/goals/NCR_Bears_Roar.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Blast_from_the_Past"
+		texturefile = "gfx/interface/goals/NCR_Blast_from_the_Past.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Drummunds_Army"
+		texturefile = "gfx/interface/goals/NCR_Drummunds_Army.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Gun_Runner_Deals"
+		texturefile = "gfx/interface/goals/NCR_Gun_Runner_Deals.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Gun_Runner_Licensing"
+		texturefile = "gfx/interface/goals/NCR_Gun_Runner_Licensing.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_River_Patrols"
+		texturefile = "gfx/interface/goals/NCR_River_Patrols.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_Tip_of_the_Spear"
+		texturefile = "gfx/interface/goals/NCR_The_Tip_of_the_Spear.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Weapon_Standardization"
+		texturefile = "gfx/interface/goals/NCR_Weapon_Standardization.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Sympathies"
+		texturefile = "gfx/interface/goals/NCR_Sympathies.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_eviction"
+		texturefile = "gfx/interface/goals/NCR_eviction.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_openlong15"
+		texturefile = "gfx/interface/goals/NCR_openlong15.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_aradeshport"
+		texturefile = "gfx/interface/goals/NCR_aradeshport.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Sympathies"
+		texturefile = "gfx/interface/goals/NCR_Sympathies.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Triumph"
+		texturefile = "gfx/interface/goals/NCR_Triumph.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Urban_Draft"
+		texturefile = "gfx/interface/goals/NCR_Urban_Draft.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Steeldeal"
+		texturefile = "gfx/interface/goals/NCR_Steeldeal.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Riverbank"
+		texturefile = "gfx/interface/goals/NCR_Riverbank.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Standards"
+		texturefile = "gfx/interface/goals/NCR_Standards.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Retake"
+		texturefile = "gfx/interface/goals/NCR_Retake.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Rationing"
+		texturefile = "gfx/interface/goals/NCR_Rationing.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Rangerdeploy"
+		texturefile = "gfx/interface/goals/NCR_Rangerdeploy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Rangergeneral"
+		texturefile = "gfx/interface/goals/NCR_Rangergeneral.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Power_to_the_People"
+		texturefile = "gfx/interface/goals/NCR_Power_to_the_People.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Protege"
+		texturefile = "gfx/interface/goals/NCR_Protege.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Politicalbandito"
+		texturefile = "gfx/interface/goals/NCR_Politicalbandito.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Pokersiege"
+		texturefile = "gfx/interface/goals/NCR_Pokersiege.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Petersonswar"
+		texturefile = "gfx/interface/goals/NCR_Petersonswar.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Patrol"
+		texturefile = "gfx/interface/goals/NCR_Patrol.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Oldworldwall"
+		texturefile = "gfx/interface/goals/NCR_Oldworldwall.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Newnorth"
+		texturefile = "gfx/interface/goals/NCR_Newnorth.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Oldworldmilitary"
+		texturefile = "gfx/interface/goals/NCR_Oldworldmilitary.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Newgeneral"
+		texturefile = "gfx/interface/goals/NCR_Newgeneral.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Mojavehero"
+		texturefile = "gfx/interface/goals/NCR_Mojavehero.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Mojave"
+		texturefile = "gfx/interface/goals/NCR_Mojave.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_MojaveOutpost"
+		texturefile = "gfx/interface/goals/NCR_MojaveOutpost.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Milcenters"
+		texturefile = "gfx/interface/goals/NCR_Milcenters.dds"
+	}	
+	spriteType = {
+		name = "GFX_goal_NCR_Long_march"
+		texturefile = "gfx/interface/goals/NCR_Long_march.dds"
+	}	
+	spriteType = {
+		name = "GFX_goal_NCR_Long15"
+		texturefile = "gfx/interface/goals/NCR_Long15.dds"
+	}	
+	spriteType = {
+		name = "GFX_goal_NCR_Industrialcomplex"
+		texturefile = "gfx/interface/goals/NCR_Industrialcomplex.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Integration"
+		texturefile = "gfx/interface/goals/NCR_Integration.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Heavy_Troops"
+		texturefile = "gfx/interface/goals/NCR_Heavy_Troops.dds"
+	}	
+	spriteType = {
+		name = "GFX_goal_NCR_Hardline"
+		texturefile = "gfx/interface/goals/NCR_Hardline.dds"
+	}	
+	spriteType = {
+		name = "GFX_goal_NCR_Exodus"
+		texturefile = "gfx/interface/goals/NCR_Exodus.dds"
+	}	
+	spriteType = {
+		name = "GFX_goal_NCR_Drummund"
+		texturefile = "gfx/interface/goals/NCR_Drummund.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Diplomacy"
+		texturefile = "gfx/interface/goals/NCR_Diplomacy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Damassault"
+		texturefile = "gfx/interface/goals/NCR_Damassault.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Brahminbill"
+		texturefile = "gfx/interface/goals/NCR_Brahminbill.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Buyout"
+		texturefile = "gfx/interface/goals/NCR_Buyout.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Baronofbarons"
+		texturefile = "gfx/interface/goals/NCR_Baronofbarons.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Baron"
+		texturefile = "gfx/interface/goals/NCR_Baron.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Bajastate"
+		texturefile = "gfx/interface/goals/NCR_Bajastate.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Baja"
+		texturefile = "gfx/interface/goals/NCR_Baja.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Aradeshfort"
+		texturefile = "gfx/interface/goals/NCR_Aradeshfort.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Allisgood"
+		texturefile = "gfx/interface/goals/NCR_Allisgood.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Seabear"
+		texturefile = "gfx/interface/goals/NCR_Seabear.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_Boneyard"
+		texturefile = "gfx/interface/goals/NCR_The_Boneyard.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Rebuild_the_13"
+		texturefile = "gfx/interface/goals/NCR_Rebuild_the_13.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Mayoral_Victory_Speech"
+		texturefile = "gfx/interface/goals/NCR_Mayoral_Victory_Speech.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Bastion_By_the_Sea"
+		texturefile = "gfx/interface/goals/NCR_Bastion_By_the_Sea.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_Gamma_Core"
+		texturefile = "gfx/interface/goals/NCR_The_Gamma_Core.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_Capital_Fund"
+		texturefile = "gfx/interface/goals/NCR_The_Capital_Fund.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Expand_Ranger_HQ"
+		texturefile = "gfx/interface/goals/NCR_Expand_Ranger_HQ.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Military_Academy"
+		texturefile = "gfx/interface/goals/NCR_Military_Academy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Council_Hill"
+		texturefile = "gfx/interface/goals/NCR_Council_Hill.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Shock_Companies"
+		texturefile = "gfx/interface/goals/NCR_Shock_Companies.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Rapid_Advance"
+		texturefile = "gfx/interface/goals/NCR_Rapid_Advance.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Rangers_Lead_the_War"
+		texturefile = "gfx/interface/goals/NCR_Rangers_Lead_the_War.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Ranger_Core"
+		texturefile = "gfx/interface/goals/NCR_Ranger_Core.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Ranger_Can_Openers"
+		texturefile = "gfx/interface/goals/NCR_Ranger_Can_Openers.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Mossmans_Army"
+		texturefile = "gfx/interface/goals/NCR_Mossmans_Army.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Military_March"
+		texturefile = "gfx/interface/goals/NCR_Military_March.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Mechanized_Core"
+		texturefile = "gfx/interface/goals/NCR_Mechanized_Core.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Infantry_Drills"
+		texturefile = "gfx/interface/goals/NCR_Infantry_Drills.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Big_Jims_Army"
+		texturefile = "gfx/interface/goals/NCR_Big_Jims_Army.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Big_Jim_Draft"
+		texturefile = "gfx/interface/goals/NCR_Big_Jim_Draft.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_New_Pitch"
+		texturefile = "gfx/interface/goals/NCR_The_New_Pitch.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_League"
+		texturefile = "gfx/interface/goals/NCR_The_League.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_The_California_League"
+		texturefile = "gfx/interface/goals/NCR_The_California_League.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_NCR_Season_One"
+		texturefile = "gfx/interface/goals/NCR_Season_One.dds"
+	}
+	
+	###################
+	# GENERIC FOCUSES #
+	###################
+	
+	spriteType = {
+		name = "GFX_goal_generic_advanced_energy_weapons_focus"
+		texturefile = "gfx/interface/goals/generic_advanced_energy_weapons_focus.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_goal_generic_advanced_firearms_focus"
+		texturefile = "gfx/interface/goals/generic_advanced_firearms_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_advanced_technology_focus"
+		texturefile = "gfx/interface/goals/generic_advanced_technology_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_air_doctrines_focus"
+		texturefile = "gfx/interface/goals/generic_air_doctrines_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_airbases_focus"
+		texturefile = "gfx/interface/goals/generic_airbases_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_ammo_boxes_focus"
+		texturefile = "gfx/interface/goals/generic_ammo_boxes_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_BoS_diplomatic_focus"
+		texturefile = "gfx/interface/goals/generic_BoS_diplomatic_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_building_focus"
+		texturefile = "gfx/interface/goals/generic_building_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_bunkers_focus"
+		texturefile = "gfx/interface/goals/generic_bunkers_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_cities_focus"
+		texturefile = "gfx/interface/goals/generic_cities_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_common_energy_weapons_focus"
+		texturefile = "gfx/interface/goals/generic_common_energy_weapons_focus.dds"
+	}spriteType = {
+		name = "GFX_goal_generic_common_firearms_focus"
+		texturefile = "gfx/interface/goals/generic_common_firearms_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_communcation_focus"
+		texturefile = "gfx/interface/goals/generic_communcation_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_data_focus"
+		texturefile = "gfx/interface/goals/generic_data_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_electricity_focus"
+		texturefile = "gfx/interface/goals/generic_electricity_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_electronics_focus"
+		texturefile = "gfx/interface/goals/generic_electronics_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_food_focus"
+		texturefile = "gfx/interface/goals/generic_food_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_fuel_focus"
+		texturefile = "gfx/interface/goals/generic_fuel_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_generic_diplomatic_focus"
+		texturefile = "gfx/interface/goals/generic_generic_diplomatic_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_ghouls_focus"
+		texturefile = "gfx/interface/goals/generic_ghouls_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_harbours_focus"
+		texturefile = "gfx/interface/goals/generic_harbours_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_ideological_fury_focus"
+		texturefile = "gfx/interface/goals/generic_ideological_fury_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_land_doctrines_focus"
+		texturefile = "gfx/interface/goals/generic_land_doctrines_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_large_scale_normal_industry_focus"
+		texturefile = "gfx/interface/goals/generic_large_scale_normal_industry_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_laser_muskets_focus"
+		texturefile = "gfx/interface/goals/generic_laser_muskets_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_Legion_diplomatic_focus"
+		texturefile = "gfx/interface/goals/generic_Legion_diplomatic_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_metal_focus"
+		texturefile = "gfx/interface/goals/generic_metal_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_military_industry_focus"
+		texturefile = "gfx/interface/goals/generic_military_industry_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_naval_doctrines_focus"
+		texturefile = "gfx/interface/goals/generic_naval_doctrines_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_NCR_diplomatic_focus"
+		texturefile = "gfx/interface/goals/generic_NCR_diplomatic_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_pipe_weapons_focus"
+		texturefile = "gfx/interface/goals/generic_pipe_weapons_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_recruitment_focus"
+		texturefile = "gfx/interface/goals/generic_recruitment_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_regular_firearms_focus"
+		texturefile = "gfx/interface/goals/generic_regular_firearms_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_robots_focus"
+		texturefile = "gfx/interface/goals/generic_robots_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_slums_focus"
+		texturefile = "gfx/interface/goals/generic_slums_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_supplies_focus"
+		texturefile = "gfx/interface/goals/generic_supplies_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_t45d_power_armour_focus"
+		texturefile = "gfx/interface/goals/generic_t45d_power_armour_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_t51b_power_armour_focus"
+		texturefile = "gfx/interface/goals/generic_t51b_power_armour_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_walls_focus"
+		texturefile = "gfx/interface/goals/generic_walls_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_war_focus"
+		texturefile = "gfx/interface/goals/generic_war_focus.dds"
+	}
+	
+
+	
+	spriteType = {
+		name = "GFX_goal_bottlecap"
+		texturefile = "gfx/interface/goals/focus_bottlecap.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_energy"
+		texturefile = "gfx/interface/goals/focus_energy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_power_armor"
+		texturefile = "gfx/interface/goals/focus_power_armor.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_ally_legion"
+		texturefile = "gfx/interface/goals/focus_ally_legion.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_ally_NCR"
+		texturefile = "gfx/interface/goals/focus_ally_NCR.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_attack_legion"
+		texturefile = "gfx/interface/goals/focus_attack_legion.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_focus_spy"
+		texturefile = "gfx/interface/goals/focus_spy.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_80"
+		texturefile = "gfx/interface/goals/focus_80.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_80_alt"
+		texturefile = "gfx/interface/goals/focus_80_alt.dds"
+	}
+	
+}
